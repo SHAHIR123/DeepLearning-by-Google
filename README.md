@@ -1,8 +1,8 @@
 ## DEEP LEARNING TRAINING BY GOOGLE
 
-** This course by google aimed at upgrading machine learning skill to deep learing level **
+**This course by google aimed at upgrading machine learning skill to deep learing level**
 
-** Data set used is notMNIST data set **
+**Data set used is notMNIST data set**
 
 * Deep neural network
 
